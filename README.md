@@ -13,7 +13,7 @@ Department of Computer Science & Engineering University of Information Technolog
 
 Md. Saiful Islam Santo 
 ID: 2125051047 
-Section: 8A Bathch: 50
+Section: 8A Batch: 50
 
 
 **Course Details**
